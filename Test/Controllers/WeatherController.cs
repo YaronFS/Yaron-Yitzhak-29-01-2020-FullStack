@@ -19,7 +19,6 @@ namespace test.Controllers
     public class WeatherController : ControllerBase
     {
         // AccuWeather API Key
-        //private readonly string apiKey = "mUgHFOY1MEdA5xq5a7ICHsZ4Pk2ai0cK";
         private readonly string apiKey = "wx8sKvbdsyzzA8Eo6gJLKAZxGq9MK4ez";
 
         private readonly WeatherAppContext db = new WeatherAppContext();
