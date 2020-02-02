@@ -2,6 +2,7 @@
 RealCommerce test
 
 Front-end - React.js
+
 Back-end - ASP.NET Core + Microsoft SQL Server
 
-Database is on "Database folder"
+Database is in "Database" folder
